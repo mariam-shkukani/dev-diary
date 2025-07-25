@@ -18,4 +18,4 @@ hello, my name is **mariam** I have a diploma in information and network securit
 - `git commit -m "message"` : Saves a snapshot with a message.
 - `git push origin main` : Uploads changes to GitHub.
 
-!
+![screenshot of my terminal](./![alt text](image.png))
